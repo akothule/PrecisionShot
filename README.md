@@ -50,9 +50,9 @@ All 3 were successfully implemented.
 
 ### **Wiring Diagram**
 
+![Wiring Diagram](https://raw.githubusercontent.com/akothule/PrecisionShot/main/img/wiring_diagram.png)
 
-
-![image][img/wiring_image.png]
+![Wiring Image](https://raw.githubusercontent.com/akothule/PrecisionShot/main/img/wiring_image.png)
 
 ### **Task Diagram**
 
