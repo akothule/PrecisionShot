@@ -50,9 +50,9 @@ All 3 were successfully implemented.
 
 ### **Wiring Diagram**
 
-![][img/wiring_diagram.png]
 
-![][img/wiring_image.png]
+
+![image][img/wiring_image.png]
 
 ### **Task Diagram**
 
