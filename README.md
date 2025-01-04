@@ -69,4 +69,8 @@ Draw a SynchSM diagrams for **all tasks** in the system.
 
 ![Game State](https://raw.githubusercontent.com/akothule/PrecisionShot/main/img/game_state_synchSM.png)
 
+<div style="background-color: white;">
+    <img src="https://raw.githubusercontent.com/akothule/PrecisionShot/main/img/game_state_synchSM.png" alt="Game State">
+</div>
+
 ![Display Game State](https://raw.githubusercontent.com/akothule/PrecisionShot/main/img/display_game_state_synchSM.png)
