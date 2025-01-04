@@ -50,13 +50,13 @@ All 3 were successfully implemented.
 
 ### **Wiring Diagram**
 
-![][image1]
+![][img/wiring_diagram.png]
 
-![][image2]
+![][img/wiring_image.png]
 
 ### **Task Diagram**
 
-![][image3]
+![][img/task_diagram.png]
 
 ### **SynchSM Diagrams**
 
